@@ -154,7 +154,7 @@ export default {
     justify-content: center;
     align-items: center;
     padding: 15px;
-    background-color: #212121;
+    background-color: #b23366;
     color: #FFF;
  }
  main {
