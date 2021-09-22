@@ -78,6 +78,11 @@ export default {
         title: 'Suno Na Sangemarmar',
         artist: 'Arijit Singh',
         src: require('./assets/01 Suno Na Sangemarmar - Youngistaan (Arijit Singh).mp3')
+      },
+      {
+        title: 'Bolna',
+        artist: 'Arijit Singh',
+        src: require('./assets/02 Bolna - Arijit Singh 190Kbps.mp3')
       }
     ],
     player: new Audio()
